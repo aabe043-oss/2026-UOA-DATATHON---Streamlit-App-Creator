@@ -1,4 +1,4 @@
-# app/  -  Streamlit dashboard for the maintenance planner
+# app/  -  Streamlit Dashboard for the maintenance planner
 
 **Owners:** Aritha, Sun · **Runs as:** Streamlit in Snowflake, in `LEAK_DB.CURATED` · **Query tag:** `streamlit`
 
