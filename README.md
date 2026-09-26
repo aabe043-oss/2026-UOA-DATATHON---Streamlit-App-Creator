@@ -10,4 +10,4 @@ environment.yml      extra packages the app needs in Snowflake (if any)
 
 # Purpose:
 - Used Python to identify and communicate the top three drivers of water leakage.
-- Integrated analytical outputs into an interactive Streamlit application for exploring leakage and repair-priority insights.
+- Integrated analytical outputs into an interactive Streamlit application (Under Snowflake website) for exploring leakage and repair-priority insights. 
